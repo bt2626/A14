@@ -1,0 +1,43 @@
+*{
+    margin: 0 auto;
+}
+
+html{
+    background-color: white;
+}
+/* the styles for the elements */
+
+
+
+/* the styles for the section */
+main {
+    clear: left;
+    padding-bottom-left:30px;
+    padding-right:30px;
+}
+
+
+main a:hover{
+    font-style: italic;
+}
+
+h1{
+    padding-top: .3em;
+    padding-bottom: .3em;
+    margin: 0;
+    font-size: 2000%;
+}
+
+
+footer {
+    background-color: #931420;
+    clear: both;
+}
+
+footer p {
+    color:white;
+    padding-top: 1em;
+    padding-bottom: 1em;
+    text-align: center;
+
+}
